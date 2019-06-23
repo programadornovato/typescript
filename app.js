@@ -1,0 +1,10 @@
+"use strict";
+var texto = "hola";
+var numero = 555;
+var trueFalse = true;
+var deTocho = 555;
+deTocho = "aaa";
+var arrayTexto = ["fff", "ggg"];
+var arrayNumero = [555, 555];
+var arrayBool = [true, false];
+var arrayDeTocho = [true, "aaa", texto, deTocho];
